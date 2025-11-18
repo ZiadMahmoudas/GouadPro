@@ -1,1 +1,0 @@
-import{Ka as a,Ya as i,Za as n,ib as c}from"./chunk-BXXECK3Y.js";var o=class t{static \u0275fac=function(e){return new(e||t)};static \u0275cmp=a({type:t,selectors:[["app-privacy"]],decls:2,vars:0,template:function(e,r){e&1&&(i(0,"p"),c(1,"privacy works!"),n())},encapsulation:2})};export{o as Privacy};
